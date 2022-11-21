@@ -1,0 +1,8 @@
+C:\Users\abake\source\repos\Practice\IrisProject\ToyRobotChallenge\ToyRobotChallenge\bin\Debug\ToyRobotChallenge.exe.config
+C:\Users\abake\source\repos\Practice\IrisProject\ToyRobotChallenge\ToyRobotChallenge\bin\Debug\ToyRobotChallenge.exe
+C:\Users\abake\source\repos\Practice\IrisProject\ToyRobotChallenge\ToyRobotChallenge\bin\Debug\ToyRobotChallenge.pdb
+C:\Users\abake\source\repos\Practice\IrisProject\ToyRobotChallenge\ToyRobotChallenge\obj\Debug\ToyRobotChallenge.csproj.AssemblyReference.cache
+C:\Users\abake\source\repos\Practice\IrisProject\ToyRobotChallenge\ToyRobotChallenge\obj\Debug\ToyRobotChallenge.csproj.SuggestedBindingRedirects.cache
+C:\Users\abake\source\repos\Practice\IrisProject\ToyRobotChallenge\ToyRobotChallenge\obj\Debug\ToyRobotChallenge.csproj.CoreCompileInputs.cache
+C:\Users\abake\source\repos\Practice\IrisProject\ToyRobotChallenge\ToyRobotChallenge\obj\Debug\ToyRobotChallenge.exe
+C:\Users\abake\source\repos\Practice\IrisProject\ToyRobotChallenge\ToyRobotChallenge\obj\Debug\ToyRobotChallenge.pdb
